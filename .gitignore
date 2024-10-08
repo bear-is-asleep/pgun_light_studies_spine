@@ -1,0 +1,11 @@
+*.csv 
+*.log
+*.root
+*opana/
+*larcv/
+*_logs/
+*.txt
+*sgamma_error/
+*old/
+*output_spine/
+*submit*.sh
